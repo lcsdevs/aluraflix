@@ -1,8 +1,8 @@
 import React from 'react';
-import Menu from './components/Menu'
-import BannerMain from './components/BannerMain'
-import Carrousel from './components/Carousel'
-import dadosIniciais from './data/dados_iniciais.json'
+import Menu from '../../components/Menu'
+import BannerMain from '../../components/BannerMain'
+import Carrousel from '../../components/Carousel'
+import dadosIniciais from '../../data/dados_iniciais.json'
 
 function App() {
   return (
@@ -16,6 +16,26 @@ function App() {
       <Carrousel
         ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
+      />
+
+      <Carrousel
+        category={dadosIniciais.categorias[1]}
+      />
+
+      <Carrousel
+        category={dadosIniciais.categorias[2]}
+      />
+
+      <Carrousel
+        category={dadosIniciais.categorias[3]}
+      />
+
+      <Carrousel
+        category={dadosIniciais.categorias[4]}
+      />
+
+      <Carrousel
+        category={dadosIniciais.categorias[5]}
       />
 
     </div>
