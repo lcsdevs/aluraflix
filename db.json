@@ -234,6 +234,57 @@
       "url": "https://www.youtube.com/watch?v=5t2gq3xJZ9o",
       "categoriaId": 6,
       "id": 55
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": 1,
+      "id": 56
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": 1,
+      "id": 57
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": {
+        "id": 2,
+        "titulo": "Back End",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Cursos de Back End na Alura",
+          "url": "https://www.alura.com.br/cursos-online-programacao"
+        }
+      },
+      "id": 58
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": {
+        "id": 2,
+        "titulo": "Back End",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Cursos de Back End na Alura",
+          "url": "https://www.alura.com.br/cursos-online-programacao"
+        }
+      },
+      "id": 59
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "id": 60
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": 2,
+      "id": 61
     }
   ]
 }
